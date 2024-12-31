@@ -57,6 +57,10 @@ express-starter/
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
+## Contributing Guidelines
+
+Contributions are welcome! Before submitting a pull request, please make sure to read our commit conventions.
+
 ## License
 
 This project is licensed under the MIT License.
