@@ -9,14 +9,21 @@
 	"keywords": [],
 	"author": "",
 	"license": "ISC",
-	"type": "commonjs",
+	"type": "module",
 	"description": "",
 	"dependencies": {
-		"express": "^4.21.2"
+		"@types/bcryptjs": "^2.4.6",
+		"@types/jsonwebtoken": "^9.0.7",
+		"bcryptjs": "^2.4.3",
+		"express": "^4.21.2",
+		"joi": "^17.13.3",
+		"jsonwebtoken": "^9.0.2",
+		"mongoose": "^8.9.3"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "1.9.4",
 		"@types/express": "^5.0.0",
+		"dotenv": "^16.4.7",
 		"husky": "^9.1.7",
 		"lint-staged": "^15.3.0",
 		"typescript": "^5.7.2"
